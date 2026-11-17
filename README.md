@@ -23,7 +23,7 @@ docker compose --env-file versions.env --env-file .env up -d
 docker compose --env-file versions.env --env-file .env logs -f create-site   # first start: a few minutes
 ```
 
-Open http://localhost:8080 and sign in as `Administrator` with `ADMIN_PASSWORD` from `.env`.
+Open http://localhost:8081 and sign in as `Administrator` with `ADMIN_PASSWORD` from `.env`.
 
 ## Stop, reset
 
