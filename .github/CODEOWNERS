@@ -1,0 +1,3 @@
+# Local ERPNext: infra owns it; admins own the repo's workflows and settings.
+* @Ali-Sample/infra
+/.github/ @Ali-Sample/admins
